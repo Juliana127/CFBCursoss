@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1715890511 source:c:\users\meu\documents\##repositorio_programacao\cfbcursos\curso_c++\aula057\class_extern\auxiliar.cpp
+	<iostream>
+
+1715890511 source:c:\users\meu\documents\##repositorio_programacao\cfbcursos\curso_c++\aula057\class_extern\main.cpp
+	<iostream>
+	"variaveis.h"
+
+1715890363 c:\users\meu\documents\##repositorio_programacao\cfbcursos\curso_c++\aula057\class_extern\variaveis.h
+
