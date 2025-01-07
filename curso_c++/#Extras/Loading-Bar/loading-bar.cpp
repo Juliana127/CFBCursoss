@@ -19,11 +19,13 @@ int main() {
 
         i++;
 
-        if(i != 30){
+        if(i != 31){
             system("cls");
         }
-        }while(i != 30);
+        }while(i != 31);
 
+        cout << "\n\n";
 
+    system("pause");
 	return 0;
 }
