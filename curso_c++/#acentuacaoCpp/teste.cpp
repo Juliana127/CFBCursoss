@@ -10,7 +10,7 @@ int main() {
     string world;
 
 	cin >> world;
-	cout << endl << world;
+	cout << world << endl;
 
 	return 0;
 }
